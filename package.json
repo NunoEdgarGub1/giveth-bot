@@ -7,6 +7,7 @@
     "start": "node index"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "bignumber.js": "^7.0.1",
     "dayjs": "^1.6.0",
     "googleapis": "^30.0.0",
